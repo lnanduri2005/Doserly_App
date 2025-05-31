@@ -1,8 +1,8 @@
-# Doserly
+# Doserly 💊
 
 A Flutter-based medication management application that helps users track and manage their medications effectively.
 
-## Features
+## Features ✨
 
 - Add and manage medications with detailed information
 - Set up medication reminders and notifications
@@ -64,7 +64,7 @@ flutter run
 
 ## Development Roadmap
 
-### Completed Features
+### Completed Features ✅
 - Basic medication management system
 - Local storage implementation using Hive
 - Notification system for medication reminders
@@ -73,7 +73,7 @@ flutter run
 - Medicine details view
 - Add/Edit medicine functionality
 
-### In Progress
+### In Progress 🔄
 - Enhancing notification system reliability
 - Improving UI/UX based on user feedback
 - Optimizing local storage performance
@@ -127,7 +127,7 @@ flutter run
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source. The specific license will be added soon.
 
 ## Acknowledgments
 
